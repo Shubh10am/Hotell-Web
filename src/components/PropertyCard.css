@@ -1,0 +1,11 @@
+/* src/components/PropertyCard.css */
+
+.property-card {
+    transition: transform 0.2s;
+    /* Add a transform transition */
+}
+
+.property-card:hover {
+    transform: scale(1.05);
+    /* Scale the card on hover */
+}

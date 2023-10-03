@@ -1,0 +1,71 @@
+[{
+        "id": 1,
+        "name": "Hotel A",
+        "city": "City 1",
+        "price": 150,
+        "image": "https://picsum.photos/200"
+    },
+    {
+        "id": 2,
+        "name": "Hotel B",
+        "city": "City 2",
+        "price": 180,
+        "image": "https://picsum.photos/200"
+    },
+    {
+        "id": 3,
+        "name": "Hotel C",
+        "city": "City 3",
+        "price": 120,
+        "image": "https://picsum.photos/200"
+    },
+    {
+        "id": 4,
+        "name": "Hotel D",
+        "city": "City 1",
+        "price": 160,
+        "image": "https://picsum.photos/200"
+    },
+    {
+        "id": 5,
+        "name": "Hotel E",
+        "city": "City 2",
+        "price": 200,
+        "image": "https://picsum.photos/200"
+    },
+    {
+        "id": 6,
+        "name": "Hotel F",
+        "city": "City 3",
+        "price": 130,
+        "image": "https://picsum.photos/200"
+    },
+    {
+        "id": 7,
+        "name": "Hotel G",
+        "city": "City 1",
+        "price": 175,
+        "image": "https://picsum.photos/200"
+    },
+    {
+        "id": 8,
+        "name": "Hotel H",
+        "city": "City 2",
+        "price": 190,
+        "image": "https://picsum.photos/200"
+    },
+    {
+        "id": 9,
+        "name": "Hotel I",
+        "city": "City 3",
+        "price": 140,
+        "image": "https://picsum.photos/200"
+    },
+    {
+        "id": 10,
+        "name": "Hotel J",
+        "city": "City 1",
+        "price": 165,
+        "image": "https://picsum.photos/200"
+    }
+]
